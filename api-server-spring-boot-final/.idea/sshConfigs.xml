@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="3.37.207.15" id="1fd614bb-8406-4f2a-bf6d-96f7a583eebd" keyPath="C:\Users\USER\Desktop\2021\라이징캠프\rc_server_a.ppk" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
-    </configs>
-  </component>
-</project>
